@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1526521354 source:c:\users\rama\desktop\1erparciallab2018\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"funciones.h"
+
+1526521396 c:\users\rama\desktop\1erparciallab2018\funciones.h
+
+1526521354 source:c:\users\rama\desktop\1erparciallab2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"funciones.h"
+
